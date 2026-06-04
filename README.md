@@ -1,8 +1,6 @@
 # Optimization Lab: TV Denoising
 
-This repository packages a compact, portfolio-ready project built from the ideas in CMSC764 Advanced Numerical Optimization.
-
-It focuses on the Rudin-Osher-Fatemi total-variation denoising problem and compares three solvers:
+This repository focuses on the Rudin-Osher-Fatemi total-variation denoising problem and compares three solvers:
 
 - gradient descent with backtracking
 - accelerated gradient descent
@@ -78,6 +76,4 @@ This project demonstrates:
 - splitting methods and FFT-based linear algebra
 - reproducible benchmarking
 
-## Notes
 
-The repository does not include personal identifiers.
